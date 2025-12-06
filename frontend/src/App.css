@@ -1,0 +1,13 @@
+/* Custom styles for the application */
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.spinner-border {
+  border-color: currentColor;
+  border-right-color: transparent;
+}
